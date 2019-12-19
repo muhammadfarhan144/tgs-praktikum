@@ -1,1 +1,1 @@
-# tgs-praktikum
+# website-portfolio-praktikum
